@@ -1,5 +1,5 @@
 {
-  "count": 2369,
+  "count": 2370,
   "reports": [
     {
       "title": "李录哥大对谈：来源与译文核查记录",
@@ -19,6 +19,17 @@
       "group": "李录",
       "series": "",
       "type": "底稿",
+      "date": "2026-10-09",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "李录谈AI与投资：技术浪潮中的边界与纪律",
+      "path": "reports/李录/李录-公众号-AI与投资的边界与纪律-20261009.md",
+      "bucket": "大师研究",
+      "group": "李录",
+      "series": "",
+      "type": "公众号",
       "date": "2026-10-09",
       "date_source": "文件名",
       "ticker": ""
