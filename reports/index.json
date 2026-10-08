@@ -1,6 +1,28 @@
 {
-  "count": 2367,
+  "count": 2369,
   "reports": [
+    {
+      "title": "李录哥大对谈：来源与译文核查记录",
+      "path": "reports/李录/李录-哥大对谈-核查说明-20261009.md",
+      "bucket": "大师研究",
+      "group": "李录",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-09",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "从 AI 的边界，到投资的纪律：李录哥大对谈节选",
+      "path": "reports/李录/李录-公众号-哥大对谈-待原声复核-20261009.md",
+      "bucket": "大师研究",
+      "group": "李录",
+      "series": "",
+      "type": "底稿",
+      "date": "2026-10-09",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "李录演讲与访谈合集",
       "path": "reports/李录/李录演讲与访谈合集.md",
